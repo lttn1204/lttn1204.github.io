@@ -1,0 +1,10 @@
+baseURL = "http://localhost/"
+languageCode = "en-us"
+title = "LTTN Blog"
+theme = "PaperMod"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
