@@ -1,4 +1,4 @@
-baseURL = "http://localhost/"
+baseURL = "https://lttn1204.github.io/"
 languageCode = "en-us"
 title = "LTTN"
 theme = "PaperMod"
